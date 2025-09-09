@@ -1,5 +1,5 @@
 ---
-title: "Our website"
+title: "Our collaborative website"
 ---
 
 This is our website
